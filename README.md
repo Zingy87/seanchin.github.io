@@ -1,4 +1,0 @@
-seanchin.github
-===============
-
-About Me
